@@ -1,4 +1,4 @@
-# Sample application to go with slides for Pascal Cafe 2024 Conference (IJsselstein ,Netherlands)
+# Sample application to go with slides for Pascal Cafe 2024 Conference (IJsselstein, Netherlands)
 
 This is the sample application developed to show during _Pascal Cafe 2024_ conference.
 
